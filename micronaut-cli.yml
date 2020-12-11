@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.saga
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [ annotation-api, app-name, http-client, junit, kotlin, kotlin-application, maven, netty-server, reactor, readme, security-annotations, security-jwt, shade, slf4j-simple, yaml ]
