@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b6552d3-136d-4d83-9191-a0dfc100bb33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/ApplicationKt.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/generator.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,38 +36,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Micronaut.ApplicationKt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationKt" type="MicronautRunConfigurationType" factoryName="Micronaut" temporary="true" nameIsGenerated="true">
-      <module name="generator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.saga.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="alternativeJrePath" value="" />
-      <option name="alternativeJrePathEnabled" value="false" />
-      <option name="includeProvidedScope" value="true" />
-      <option name="mainClass" value="com.saga.ApplicationKt" />
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="shortenCommandLine" />
-      <option name="vmParameters" value="" />
-      <option name="workingDirectory" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.All in Generator" />
       <item itemvalue="Maven.generator [test]" />
@@ -81,7 +45,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Micronaut.ApplicationKt" />
-        <item itemvalue="Maven.generator [mn:run]" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +60,7 @@
       <workItem from="1607728401070" duration="708000" />
       <workItem from="1607729695951" duration="72000" />
       <workItem from="1607729852836" duration="294000" />
+      <workItem from="1607730252879" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Stuff">
       <created>1607728258277</created>
