@@ -1,12 +1,14 @@
-name: Gradle Test
+name: Maven Test
 
 on:
   push:
     branches:
-    - .*
+      - '*'
   pull_request:
     branches:
-    - .*
+      - '*'
+  workflow_dispatch:
+    
 
 jobs:
   build:
@@ -22,5 +24,5 @@ jobs:
         server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
         settings-path: ${{ github.workspace }} # location for the settings.xml file
 
-    - name: Test with Gradle
-      run: gradle test
+    - name: Test with Maven
+      run: mvn test
